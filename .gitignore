@@ -1,0 +1,26 @@
+# ── Python ───────────────────────────────────────────
+__pycache__/
+*.pkl
+*.npz
+.ipynb_checkpoints/
+
+# Virtual-env
+.venv/
+
+# MATLAB
+*.asv
+*.mex*
+
+# OpenSim & data
+*.trc
+*.c3d
+*.mot
+*.sto
+*.mat
+
+# VS Code settings that aren’t project-specific
+.vscode/
+
+# Generated reports / big outputs
+reports/
+docs/figures/**/  # keep the folder, ignore new large images

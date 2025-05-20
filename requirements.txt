@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+scipy
+typer
+jupyterlab
+opensim==4.4      # or omit if you rely on the desktop install
+
